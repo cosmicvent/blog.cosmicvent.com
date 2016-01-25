@@ -2,6 +2,8 @@ title: Simple Form now has the ability to configure a reply to address and use t
 date: 2014-08-14 15:40:37
 tags:
  - Simple Form
+categories:
+- Simple Form
 ---
 This is a feature which has been requested by many people.
 
