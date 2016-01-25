@@ -12,3 +12,5 @@ You can browse to this page using the url: http://getsimpleform.com/forms/&lt;yo
 For the demo form this would be http://getsimpleform.com/forms/479afc5e07adc370e79cc75ad751d071/edit
 
 Check the screenshot below for the settings:
+
+{% asset_img simpleform-setup.png Simpleform Screenshot %}
